@@ -1,3 +1,9 @@
+-- Athena table creation script for cloud-finance-analytics project
+
+
+
+
+
 CREATE DATABASE IF NOT EXISTS finance_analytics;
 
 CREATE EXTERNAL TABLE IF NOT EXISTS finance_analytics.customers (
