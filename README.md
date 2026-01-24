@@ -1,2 +1,26 @@
 # cloud-finance-analytics
-This cloud-based analytics pipeline enables scalable, cost-efficient financial analysis without managing servers.
+
+\## Project Status 🚧
+
+
+
+This project is in progress.
+
+
+
+\- ✅ S3 data lake created
+
+\- ✅ Athena tables defined
+
+\- ✅ QuickSight connected
+
+\- ⏳ KPI dashboards in progress
+
+\- ⏳ Automation with Glue/Lambda planned
+
+
+
+
+
+
+
