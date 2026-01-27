@@ -2,7 +2,7 @@
 
 A scalable end-to-end cloud analytics pipeline using **Excel → Amazon S3 → Amazon Athena → Amazon QuickSight** to analyze financial and business data.
 
-This project demonstrates a modern cloud approach to replace traditional Excel reporting with centralized storage, SQL querying, and interactive dashboards.
+This project demonstrates how traditional Excel-based reporting can be transformed into a modern cloud workflow with SQL querying and interactive dashboards.
 
 ---
 
@@ -20,7 +20,7 @@ This architecture is:
 
 ## 🎯 Project Goal
 
-Transform traditional Excel-based financial data into a modern cloud analytics workflow with interactive dashboards that provide actionable insights.
+Transform Excel-based financial data into a cloud analytics workflow and visualize key metrics via QuickSight dashboards.
 
 ---
 
@@ -36,44 +36,40 @@ Transform traditional Excel-based financial data into a modern cloud analytics w
 
 ## 📊 QuickSight Dashboards
 
-The following visuals were created in QuickSight:
+### 1. Revenue
+Shows total revenue over time.
+![Revenue](screenshots/revenue.png)
 
-### 1. Financial Breakdown by Category
-Shows spending distribution across financial categories.
-![Spending by Category](screenshots/spend-by-category.png)
+### 2. Gross Profit
+Shows total gross profit and trend analysis.
+![Gross Profit](screenshots/gross-profit.png)
 
-### 2. Monthly Trend Analysis
-Shows month-over-month financial trends.
-![Monthly Trend](screenshots/monthly-trend.png)
+### 3. Revenue by Customer
+Highlights revenue contribution by each customer.
+![Revenue by Customer](screenshots/revenue-by-customer.png)
 
-### 3. Vendor / Customer Summary
-Highlights major vendors/customers and spending amounts.
-![Vendor Summary](screenshots/vendor-summary.png)
+> Screenshots are stored in the `/screenshots` folder in the repo.
 
 ---
 
 ## 💡 Insights & Takeaways
 
-- Identify which categories drive the most financial activity  
-- Track monthly trends for budgeting and forecasting  
-- Analyze vendor/customer concentration  
+- Revenue trends over time for business planning  
+- Gross profit analysis for financial performance  
+- Identify top customers contributing most to revenue  
 
 ---
 
 ## 🚀 Next Steps
 
 - Add sample dataset (`/data`)  
-- Add Athena SQL scripts (`/athena`)  
-- Optionally, add full dashboard overview screenshot  
+- Include Athena SQL scripts (`/athena`)  
+- Optionally add a full dashboard overview screenshot  
 - Expand documentation for a complete portfolio  
 
 ---
 
 ## 📁 Repository Structure
-
-
-
-
 
 
 
