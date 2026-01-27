@@ -1,22 +1,39 @@
-# cloud-finance-analytics
+# Cloud Finance Analytics
 
-\## Project Status 🚧
+This project demonstrates a cloud analytics pipeline using **Excel → Amazon S3 → Amazon Athena → Amazon QuickSight** to analyze financial and business data.
 
-
-
-This project is in progress.
+## 📂 Architecture Overview
 
 
+This architecture is:
+- Serverless
+- Scalable
+- Pay-per-query
+- Ideal for analytics workloads
 
-\- ✅ S3 data lake created
+## 🎯 Project Goal
 
-\- ✅ Athena tables defined
+To show how traditional Excel-based data can be transformed into a modern cloud analytics workflow and visualized through interactive dashboards.
 
-\- ✅ QuickSight connected
+## 🛠 Technologies Used
 
-\- ⏳ KPI dashboards in progress
+- Amazon S3 (storage)
+- Amazon Athena (SQL querying)
+- Amazon QuickSight (visualization)
+- Excel/CSV (data source)
+- GitHub (documentation)
 
-\- ⏳ Automation with Glue/Lambda planned
+## 📊 Dashboard Status
+
+QuickSight visuals created (screenshots coming soon).
+
+## 🚀 Next Steps
+
+- Add sample dataset
+- Add Athena SQL scripts
+- Add dashboard screenshots
+- Add full documentation
+
 
 
 
