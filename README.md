@@ -2,8 +2,10 @@
 
 This project demonstrates a cloud analytics pipeline using **Excel → Amazon S3 → Amazon Athena → Amazon QuickSight** to analyze financial and business data.
 
+
 ## 📂 Architecture Overview
 
+Excel/CSV → Amazon S3 → Amazon Athena → Amazon QuickSight
 
 This architecture is:
 - Serverless
