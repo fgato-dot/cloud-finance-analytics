@@ -34,21 +34,27 @@ Transform Excel-based financial data into a cloud analytics workflow and visuali
 
 ---
 
-## 📊 QuickSight Dashboards
+## QuickSight Dashboards
 
 ### 1. Revenue
 Shows total revenue over time.
-![Revenue](screenshots/revenue.png)
+
+![Revenue Dashboard](images/revenue.png)
+
+---
 
 ### 2. Gross Profit
 Shows total gross profit and trend analysis.
-![Gross Profit](screenshots/gross-profit.png)
+
+![Gross Profit Dashboard](images/gross_profit.png)
+
+---
 
 ### 3. Revenue by Customer
 Highlights revenue contribution by each customer.
-![Revenue by Customer](screenshots/revenue-by-customer.png)
 
-> Screenshots are stored in the `/screenshots` folder in the repo.
+![Revenue by Customer Dashboard](images/revenue_by_customer.png)
+
 
 ---
 
