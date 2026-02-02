@@ -18,5 +18,4 @@ Shows total gross profit and trend analysis.
 Highlights revenue contribution by each customer.
 
 ![Revenue by Customer Dashboard](images/revenue_by_customer.png)
-# cloud-finance-analytics
-This cloud-based analytics pipeline enables scalable, cost-efficient financial analysis without managing servers.
+
